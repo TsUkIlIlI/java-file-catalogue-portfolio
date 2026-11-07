@@ -1,0 +1,2 @@
+Fictional field notes for the Java portfolio demo.
+This sample is longer than 64 bytes so the preview limit is visible.
